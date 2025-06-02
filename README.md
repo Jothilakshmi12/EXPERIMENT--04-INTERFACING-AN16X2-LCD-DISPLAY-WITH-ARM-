@@ -209,10 +209,10 @@ int main(void)
 
 void lcd_display(){
 	Lcd_cursor(&lcd,0,1);
-	Lcd_string(&lcd,"Iswarya P\n");
+	Lcd_string(&lcd,"Jothilakshmi P\n");
 
 	Lcd_cursor(&lcd,1,1);
-	Lcd_string(&lcd,"212223230082\n");
+	Lcd_string(&lcd,"212223110017\n");
 
 	for(int x=0;x<100;x++){
 		Lcd_cursor(&lcd,2,1);
@@ -308,11 +308,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
  
- ![image](https://github.com/user-attachments/assets/ddaca0c6-273b-4d93-9832-702cda5a70cf)
+![image](https://github.com/user-attachments/assets/fac2b567-13dd-4cd8-a49b-ee31d0d7f62d)
+
 
  ## CIRCUIT DIAGRAM :
  
- ![Screenshot 2025-03-29 105243](https://github.com/user-attachments/assets/7e21c246-feb7-4f60-bb78-29b6d0559532)
+ ![image](https://github.com/user-attachments/assets/4a426494-6243-47b2-a559-81ddb59c0253)
 
  
 ## Result :
